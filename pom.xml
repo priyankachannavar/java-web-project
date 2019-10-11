@@ -158,7 +158,7 @@
 			<url>http://localhost:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement> -->
-	<!-- <repositories>
+	 <repositories>
 		<repository>
 			<snapshots>
 				<enabled>false</enabled>
@@ -173,6 +173,6 @@
 			<name>libs-snapshot</name>
 			<url>http://localhost:8081/artifactory/libs-snapshot</url>
 		</repository>
-	</repositories> -->
+	</repositories>
 
 </project>
